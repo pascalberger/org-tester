@@ -12,6 +12,6 @@ features:
  - pr_description_required
  - release_notes
  - no_newbies
- - hacktoberfest # Enable each October
+ - hacktoberfest
 
 contributing_url: https://github.com/openfaas/faas/blob/master/CONTRIBUTING.md
